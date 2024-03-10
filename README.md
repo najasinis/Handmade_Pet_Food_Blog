@@ -83,10 +83,10 @@ graph LR
 * WBS
 ```mermaid
 gantt
-    title 깃헙 정적 블로그
+    title Handmade_Pet_Food_Blog
     dateFormat  YYYY-MM-DD
     section 계획
-    프로젝트 범위 정의        :done,    des1, 2024-01-15, 2d
+    프로젝트 범위 정의        :done,    des1, 2024-03-07, 2d
     요구사항 수집             :active,  des2, after des1, 5d
     section 설계
     와이어프레임 작성         :         des3, after des2, 7d

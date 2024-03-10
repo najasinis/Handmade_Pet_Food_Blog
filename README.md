@@ -1,4 +1,4 @@
-# Handmade_Pet_food blog
+# Handmade_Pet_Food blog
 
 * 목표
     * 수제 펫푸드 기록 및 소통용 블로그

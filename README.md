@@ -1,4 +1,4 @@
-# main-project_2
+# Handmade_Pet_food blog
 
 * 목표
     * 수제 펫푸드 

@@ -1,9 +1,7 @@
 # main-project_2
 
-* 이 repo는 위니브 회사 repo로 이관되어 더이상 업데이트 되지 않습니다. 업데이트 하지 않도록 주의해주세요.
-
 * 목표
-    * github에서 fork로 바로 blog를 만들 수 있는 정적 페이지 제공 프로젝트
+    * 수제 펫푸드 
     * 학생에게 프로젝트 양식 샘플 제공(https://github.com/weniv/project_sample_repo repo와 추후 연결)
     * 회사 주피터 노트북 등 지적 재산을 누적하기 위한 블로그 프로젝트
 

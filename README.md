@@ -21,10 +21,11 @@
         * 상호 소통이 원활하게 되면서 수제 펫푸드 정보 뿐만 아니라, 펫 양육 지식 또한 획득 가능
      
 * ERD
-  <img src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=2%ED%9A%8C%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_ERD.drawio#R7V3tc6I4HP5rnLn7sDsI4svHSuvu3eptx3Zf7tNOKqmwi8SB2Or%2B9ZdAomCiAkXlCDNOB0II8HuePAl5QtMyrMX6QwCWzgTZ0Gvpmr1uGbctXR%2F0e%2BQvTdjECWabJcwD146T2ruEB%2Fc3ZIkaS125NgxTGTFCHnaX6cQZ8n04w6k0EAToNZ3tGXnpqy7BHAoJDzPgianfXBs7cWrf1HbpH6E7d%2FiV2xo7sgA8M0sIHWCj11QSXOMR8jG7xXsYLIAPfUyOTEDwCwYt887BmD7pTUsfkd8zzf1%2BjtDcg2Dphu9naEGSZyHJMnoGC9ejYU4UNGQFkcsZdy3DChDC8dZibUGPQsVhiO9pdODoNg4BLTfDCda7l834l4b9j6%2FGVzyZzO97T%2B9YKS%2FAW7H4stjgDQ84tEn82S65lIs3U%2BgB7CL%2FbndkCH37hqJLMt1NkU%2BTQgwCvJ9I8o1ccl%2FGrcazJPbh2sXfyXabbf9L09%2BbbO92nch2u%2BE7Pg4235M7ibPo7u60aI%2BfJ8aPBSNEq2AGjwRNZzWG3Pwc4iMZDcYqO0VpBs8HiBaQ3BDJ8Loj8pauTpLEPDGIIv%2BSrgqA0XW%2BLXB7jXvkRuxlld%2FosHJY3e9x3vMi4kdnZyW5tFdQZ6%2Bg7n5BcWiEgshG4sF3SRFV89BWrxZvi3PJyEglrtKV4VJHS1Og3S%2FKpW66IF0zL8olkUpfwligU3QircWSbmLw5G1ZwppHg3KANHgYuD45NdavGfI8sAzdKHuc4riePQYbtMK8IL43fHbX0J7GrSPNS9g3JoWFjGC0neFkpoeB5859sj0jhKNXHAYwJPcyBiFmOQ5S8gUGGK6PcogjY%2B5BzGt5gmN6T8axrnaYTin88oJlnK73HCjy6NgF3pR0QoA%2FjzBLQ0Ljagdo%2BcjrHk1YUprB4O4Fxt2AKPikolvIQxRZP5aDKFv0cOaQ%2FMjjWrTFMckNWGS%2FvdsnP5o9wBbyQxwAN4IDEqBeIQVriNGSXceDz%2Fw2AhZMuv2EMCa9ikOwHiX1aawZtkZGaI1zIdsRkL3%2FlAdbRJ712Ys023FtG%2FpxlaR9ULDDWwKlNP7bmO%2BDsV8RM%2BJhZMYjAYCRM%2F6ssF1UcpcGPMJ9H2A4RCvfDs8ht6ZUbn%2BA2YxckjYLX2%2Bm1sebKdn65%2FMj%2FftlPK4gEbgCx3mH4RLMXH8%2Bjs%2Fs7jHFPAdT1q2DNbdTKnMyFXcB6nRVFn95N7Mc8e9eW%2Fx7ArKjKop%2Fxvh3M8e%2F7mLfF3C10GJBoveDnFYfqS%2BdF8pJ%2B6CR9vNI%2B%2BDa0s7HjWui7YPMANRd29vi2PE9CtVU9uysqLOyf%2Fs8skzQ%2Fz3Bf39yJtYqeP1JFEtNJReokFXcDyp55tG3MqRcDqU4%2BlZhKT%2BBwBGy1lrL5c8tjr5N4dLbHBFzS2%2FdaBUEP6Okl8mOOmu6vOkXhYC91x0khEK2SX%2FfGctsmwzO1gkX67dCrXKOcfp29uHXqhgnbXFEvU7OyZa6zRtXWxwAr%2BVwWkHnJAdT1GuxxRF2hRqAHOM7%2BRuAq5snbXGUvcKvZacR6GVGoPaCLw6L19QsL58bykk8f8toJL50ib%2B6iaKLY%2B0VrOUZ478laiPwHEZJjx67OLrpmQOCP0ztT1UkPgc76izx8gHIgZKKXsRLiUW%2BwmYKL7hSlThTvI9Qs9YKLodRbJm5gtORbVjDXnqZ9FBOwg01O%2BXnkHDz6hJuVLASF6%2BjMTUVlHDRHOMSbpMLkyOPf03uHh5vJvcKK%2FghdtRZweUvKKL5Tee9HWSDQs73tld9rJdtSmA8n%2FMtmdmiUAOc54vBUpxvGbjnGxWrt%2FOtN873NhSi812%2FucYFbe8cNDnSVuvlttVZirsEbxrb%2B1zqL7O9L6v%2B9bK99cb23oaisb0Lc6POEi9%2FL1VS0At9XnJ8PE1mcp9L0KVIdipYgzNF%2BzAva63d0seWvJLRjnpN3ewSiaGccPPZzI1yv1W5Mw%2BznU26%2Bby8StXh4lU0pqZ64i2ZSRypd%2BNkn%2BaGevrdTEYqS79lTvZF9Xv7L5GrVInfUEcVnYwkmSYc6XdjY5%2BkhnLyLToq0Rf%2FB9nw%2F7KxT1Aj3%2F%2B9NXoSVpztA24pWkr7GJlhPUz0XCb2RSeRSbrcVXQx5B52ETx6arbNoqdR2%2F%2BwIjeyS%2BRKneecyXstmsAehfT%2FbS8Dx%2FX%2Fkl9vy6EV%2B%2BwVtrELdbk1NRVfskhJrW3sMrmhnsI3PnY5gn7Jb7XlSNbLxz70FU7t1Vt0suMOe2Nln%2BSGcuptmI16l6LeFfguO9e0hMrLd8xM9eTbEEdMY%2FluvOzT5FBPv%2FuNfpej39f%2FKDvXtITq63dfTf3mwiDod%2BNln%2BSGcvKti3225Oq%2FRDUdNEc%2B8JIr%2Fwb0dqDNYNrlGaMIX2py%2FYQYb5jXDVYYkSQHL7zWboHqSy1WLVmmWLIisXQlY2GZ4r0lhIutW8wifnrd4o6co5lXH37bvCZxXuoFiaEVIUY7HzEy4X6SPSUSY5CRGPp1iSF2%2BKpOjJyKcU1iHF0IKMmMPKbvW4lBdgOEcLLlCcDSmSAb0hz%2FAQ%3D%3D
+  <img src="
 ">
 
-* 폴더 트리
+* 폴더 트리![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/1e5bba80-93af-44f2-8b89-82a14e85b478)
+
 
     | 폴더명 | 파일명 | 함수 | 변수 | 비고 |
     |--------|--------|------|------|------|
@@ -42,7 +43,8 @@ gantt
     dateFormat  YYYY-MM-DD
     section 계획
     프로젝트 범위 정의        :done,    des1, 2024-03-06, 1d
-    요구사항 수집             :active,  des2, after des1, 1d
+    요구사항 수집             :act![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/6d1c63ad-51ea-44bb-b119-0ac5216b2758)
+ive,  des2, after des1, 1d
     section 설계
     와이어프레임 작성         :         des3, after des2, 1d
     데이터베이스 스키마 설계  :         des4, after des2, 1d

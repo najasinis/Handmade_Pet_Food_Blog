@@ -31,8 +31,7 @@ gantt
     dateFormat  YYYY-MM-DD
     section 계획
     프로젝트 범위 정의        :done,    des1, 2024-03-06, 1d
-    요구사항 수집             :act![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/6d1c63ad-51ea-44bb-b119-0ac5216b2758)
-ive,  des2, after des1, 1d
+    요구사항 수집             :active,  des2, after des1, 1d
     section 설계
     와이어프레임 작성         :         des3, after des2, 1d
     데이터베이스 스키마 설계  :         des4, after des2, 1d

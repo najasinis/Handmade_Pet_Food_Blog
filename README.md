@@ -21,20 +21,9 @@
         * 상호 소통이 원활하게 되면서 수제 펫푸드 정보 뿐만 아니라, 펫 양육 지식 또한 획득 가능
      
 * ERD
-  <img src="
-">
+[2회차 프로젝트_ERD drawio]
 
-* 폴더 트리![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/1e5bba80-93af-44f2-8b89-82a14e85b478)
-
-
-    | 폴더명 | 파일명 | 함수 | 변수 | 비고 |
-    |--------|--------|------|------|------|
-    | style  | globalStyle.js | | | 전역 스타일 설정 |
-    | style  | blogContentsStyle.js | | | 블로그 컨텐츠 스타일 설정 |
-    | JS     | config.js | | siteConfig | 사이트 설정 정보 |
-    | JS     | URLparsing.js | extractFromUrl() | url(url obj), pathParts(쿼리스트링), isLocal | URL 파싱, 스키마 확인 |
-    | JS     | render.js | renderBlogPosts(), renderMenu() | | 데이터를 DOM에 렌더링 |
-    | JS     | initData.js | initDataBlogList(), initDataBlogMenu() | blogList, blogMenu | 초기 데이터 로딩, 스키마 확인 |
+* 폴더 트리!(https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/1e5bba80-93af-44f2-8b89-82a14e85b478)
 
 * WBS
 ```mermaid

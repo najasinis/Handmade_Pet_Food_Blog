@@ -53,14 +53,14 @@ gantt
         </tr>
         <tr>
             <td width="70%">
-                <img src="readme_img/Blog.jpg">
+                ![메인화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/4685fb65-f866-4bd9-beb4-63e25bde2933)
             </td>
             <td>
                 <ul>
-                    <li>목록 필요</li>
-                    <li>URL 파싱 및 URL 변경 필요</li>
-                    <li>목록을 6개씩 잘라내어 넘어가게 하거나 무한스크롤 구현</li>
-                    <li>가장 최신의 게시물을 맨 위에 게시</li>
+                    <li>blog URL 변경 필요</li>
+                    <li>가장 최신의 게시물을 맨 위에 게시 기능 구현 필요</li>
+                    <li>그 외 게시물들을 따로 목록화하라 필요</li>
+                    <li>CRUD 검색 기능 구현</li></li>
                 </ul>
             </td>
         </tr>
@@ -72,30 +72,29 @@ gantt
         </tr>
         <tr width="70%">
             <td width="70%">
-                <img src="readme_img/Blog_posts.jpg">
+               ![포스트 화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/d7da3dd5-d5f4-443e-8981-317fb4e33249)
             </td>
             <td>
                 <ul>
-                    <li>목록을 불러오는 것이 불필요 하지만 검색 버튼을 눌렀을 경우 목록을 불러올 필요가 있음</li>
-                    <li>URL 파싱 및 URL 변경 필요</li>
-                    <li>posts 변수에 담아 다른 페이지 이동 후 재접속 할 때 다시 통신하지 않게 처리</li>
+                    <li>게시물 사진이 바로 나오게끔 하기</li>
+                    <li>해당 포스트에 대한 댓글 및 대댓글이 나오게끔 하기</li>
                 </ul>
             </td>
         </tr>
     </table>
     <table>
         <tr>
-            <th>그 외 메뉴 화면</th>
+            <th>댓글 및 대댓글 화면</th>
             <th>설명</th>
         </tr>
         <tr>
             <td width="70%">
-                <img src="readme_img/About.jpg">
+![댓글 및 대댓글 화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/8a451c9d-5faf-4b2d-86c4-587ef298e740)
             </td>
             <td>
                 <ul>
-                    <li>목록을 불러오는 것이 불필요 하지만 검색 버튼을 눌렀을 경우 목록을 불러올 필요가 있음</li>
-                    <li>URL 파싱 및 URL 변경 필요</li>
+                    <li>해당 게시글(포스트)에 해당 댓글 및 대댓글이 나타나게끔 하기</li>
+                    <li>댓글에 대한 대댓글을 달 수 있게끔 하기</li>
                 </ul>
             </td>
         </tr>

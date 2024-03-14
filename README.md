@@ -53,7 +53,7 @@ gantt
         </tr>
         <tr>
             <td width="70%">
-                ![메인화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/4685fb65-f866-4bd9-beb4-63e25bde2933)
+![메인화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/4685fb65-f866-4bd9-beb4-63e25bde2933)
             </td>
             <td>
                 <ul>
@@ -72,7 +72,7 @@ gantt
         </tr>
         <tr width="70%">
             <td width="70%">
-               ![포스트 화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/d7da3dd5-d5f4-443e-8981-317fb4e33249)
+![포스트 화면](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/d7da3dd5-d5f4-443e-8981-317fb4e33249)
             </td>
             <td>
                 <ul>

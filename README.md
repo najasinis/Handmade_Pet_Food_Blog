@@ -133,7 +133,9 @@ gantt
         * search 모델 구현 후, 조회 코드 추가 예정
 
 * **API 명세서**
+
 [Swagger](localhost:8000)  
+
 |app: accounts|HTTP Method|설명|로그인 권한 필요|작성자 권한 필요|Admin 권한|
 |:-|:-|:-|:-:|:-:|:-:|
 |'login/'|POST|유저 로그인|||

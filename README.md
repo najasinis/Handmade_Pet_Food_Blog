@@ -22,6 +22,55 @@
         * 상호 소통이 원활하게 되면서 수제 펫푸드 정보 뿐만 아니라, 펫 양육 지식 또한 획득 가능
      
 * **ERD**
+```mermaid
+erDiagram
+    User {
+        BigInt id PK
+        String username
+        String email
+        String password
+        DateTime created_at
+        DateTime updated_at
+    }
+
+    Post {
+        BigInt id PK
+        String title
+        String content
+        DateTime created_at
+        DateTime updated_at
+        BigInt user_id FK
+    }
+
+    Reply {
+        BigInt id PK
+        String title
+        String content
+        DateTime created_at
+        DateTime updated_at
+        BigInt user_id FK
+        BigInt post_id FK
+    }
+
+    Comment {
+        BigInt id PK
+        String title
+        String content
+        DateTime created_at
+        DateTime updated_at
+        BigInt user_id FK
+        BigInt post_id FK
+        BigInt reply_id FK
+    }
+
+    User ||--o{ Post : "write"
+    User ||--o{ Reply : "write"
+    User ||--o{ Comment : "write"
+    Post ||--o{ Reply : "has"
+    Post ||--o{ Comment : "has"
+    Reply ||--o{ Comment : "has"
+```
+
  ![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/ad40e6a9-38eb-4597-a8c2-2fc91340e078)
 
 * **WBS**

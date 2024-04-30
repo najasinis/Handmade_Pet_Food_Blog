@@ -22,7 +22,8 @@
         * 상호 소통이 원활하게 되면서 수제 펫푸드 정보 뿐만 아니라, 펫 양육 지식 또한 획득 가능
      
 * **ERD**
- ![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/ad40e6a9-38eb-4597-a8c2-2fc91340e078)
+ ![2회차 프로젝트_ERD drawio](![image](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/e356ed16-ee47-4383-b8ce-0a0a35666e63))
+(https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/ad40e6a9-38eb-4597-a8c2-2fc91340e078)
  
 
 * **WBS**

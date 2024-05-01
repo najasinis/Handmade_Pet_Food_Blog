@@ -1,4 +1,4 @@
-# Handmade_Pet_Food blog (main 브랜치 백업본)
+# Handmade_Pet_Food blog
 
 * **목표**
     * 수제 펫푸드 기록 및 소통 블로그

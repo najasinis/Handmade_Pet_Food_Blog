@@ -14,7 +14,7 @@
     * blog github repo: https://github.com/najasinis/Handmade_Pet_Food_Blog
     * notion(for planning): https://www.notion.so/2-0-138c734b18ae494a8fa668773a9f1c8e
 
-* **기존 타 블로그들과의 비교**
+* **앱 별 핵심 기능**
     * 필러링된 로그인 유저들만 사용 가능
         * 수제 펫푸드에 관심이 많은 유저들과의 원활한 소통 가능
         * 수제 펫푸드 정보들의 획득 용이성

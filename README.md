@@ -23,52 +23,25 @@
      
 * **ERD**
 ```mermaid
-erDiagram
-    User {
-        BigInt id PK
-        String username
-        String email
-        String password
-        DateTime created_at
-        DateTime updated_at
-    }
+graph TD
+    A[텔레그램 메시지 로그] --> B{데이터 수집/가공<br>(Node.js 함수)};
+    C[빗썸 API/데이터] --> B;
+    B --> D[수익률 계산 및 DB 저장<br>(Firebase Database)];
+    D --> E[시각화 데이터 준비<br>(Node.js 함수)];
+    E --> F[시각화 그래프 생성<br>(Python 스크립트)];
+    F --> G[시각화 자료 제공<br>(Firebase Storage or direct)];
+    G --> H[프론트엔드<br>(React JS)];
+    H --> I[사용자 (X 홍보 대상)];
+    H --> J[관리자 (내부 확인용)];
 
-    Post {
-        BigInt id PK
-        String title
-        String content
-        DateTime created_at
-        DateTime updated_at
-        BigInt user_id FK
-    }
-
-    Reply {
-        BigInt id PK
-        String title
-        String content
-        DateTime created_at
-        DateTime updated_at
-        BigInt user_id FK
-        BigInt post_id FK
-    }
-
-    Comment {
-        BigInt id PK
-        String title
-        String content
-        DateTime created_at
-        DateTime updated_at
-        BigInt user_id FK
-        BigInt post_id FK
-        BigInt reply_id FK
-    }
-
-    User ||--o{ Post : "write"
-    User ||--o{ Reply : "write"
-    User ||--o{ Comment : "write"
-    Post ||--o{ Reply : "has"
-    Post ||--o{ Comment : "has"
-    Reply ||--o{ Comment : "has"
+    classDef default fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef data fill:#ccf,stroke:#333,stroke-width:2px;
+    classDef code fill:#cfc,stroke:#333,stroke-width:2px;
+    class A,C data;
+    class B,D,E,F code;
+    class G data;
+    class H code;
+    class I,J data;
 ```
 
  ![2회차 프로젝트_ERD drawio](https://github.com/najasinis/Handmade_Pet_Food_Blog/assets/145651124/ad40e6a9-38eb-4597-a8c2-2fc91340e078)
